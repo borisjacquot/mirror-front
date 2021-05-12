@@ -5,14 +5,14 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <h1>I DON'T LIKE YOU</h1>
-            <p>Go fuck yourself</p>
+            <h1>CONFIGURATION DESK</h1>
+            <p>choose one</p>
             <div className="hero-btns">
                 <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-                    GET STARTED
+                    NEW CONFIG
                 </Button>
                 <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                    PIECE OF SHIT
+                    CONFIG LIST
                 </Button>
             </div>
         </div>
